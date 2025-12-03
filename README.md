@@ -12,7 +12,7 @@
 <p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
 
 
-[![Tecnologias e ferramentas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&color=FFFFFF&repeat=false&width=435&lines=Tecnologias+e+ferramentas)](https://git.io/typing-svg)
+[![Tecnologias e ferramentas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&color=FFFFFF&repeat=false&width=435&lines=Tecnologias+e+ferramentas)](https://git.io/typing-svg)
 
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
