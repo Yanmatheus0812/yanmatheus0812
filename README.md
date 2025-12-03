@@ -3,7 +3,7 @@
 [![Apresentacao](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Yan+Matheus;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
-[![Sobre mim](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=FFFFFF&repeat=false&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
+[![Sobre mim](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&color=FFFFFF&repeat=false&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 
 - 🎓 Estudante de Engenharia de software pela **Universidade de Brasília**  
 - 💻 Desenvolvedor full-stack na **ProEpi**  
@@ -12,7 +12,7 @@
 <p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
 
 
-[![Tecnologias e ferramentas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=FFFFFF&repeat=false&width=435&lines=Tecnologias+e+ferramentas)](https://git.io/typing-svg)
+[![Tecnologias e ferramentas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&color=FFFFFF&repeat=false&width=435&lines=Tecnologias+e+ferramentas)](https://git.io/typing-svg)
 
 <div style="display: inline_block">
   <img align="center" alt="assembly" src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=fff" />
@@ -43,7 +43,7 @@
 
 <p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
 
-[![Contato](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=FFFFFF&repeat=false&width=435&lines=Contato)](https://git.io/typing-svg)
+[![Contato](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&color=FFFFFF&repeat=false&width=435&lines=Contato)](https://git.io/typing-svg)
 
  <div> 
   <a href = "mailto:yanmatheus0812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
