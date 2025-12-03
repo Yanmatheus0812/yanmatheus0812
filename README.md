@@ -14,7 +14,7 @@
 
 [![Tecnologias e ferramentas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&color=FFFFFF&repeat=false&width=435&lines=Tecnologias+e+ferramentas)](https://git.io/typing-svg)
 
-<div style="display: inline_block">
+<div>
   <img align="center" alt="assembly" src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=fff" />
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
