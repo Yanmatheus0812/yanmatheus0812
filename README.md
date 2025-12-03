@@ -1,8 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Yan+Matheus;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Apresentacao](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Yan+Matheus;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanmatheus0812&layout=compact&hide_border=true&title_color=2e71c8&text_color=2e71c8&bg_color=0d1117" />
+
+[![Sobre mim](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=FFFFFF&repeat=false&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
+
+- 🎓 Estudante de Engenharia de software pela **Universidade de Brasília**  
+- 💻 Desenvolvedor full-stack na **ProEpi**  
+- 🧩 Ex membro da empresa júnior **Orc'estra Gamificação**
+
+<p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
+
+
+[![Tecnologias e ferramentas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=FFFFFF&repeat=false&width=435&lines=Tecnologias+e+ferramentas)](https://git.io/typing-svg)
 
 <div style="display: inline_block">
   <img align="center" alt="assembly" src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=fff" />
@@ -16,7 +26,6 @@
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
-
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -32,11 +41,13 @@
   <img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div><br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+<p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
 
-##
+[![Contato](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&color=FFFFFF&repeat=false&width=435&lines=Contato)](https://git.io/typing-svg)
 
  <div> 
   <a href = "mailto:yanmatheus0812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/yan-matheus-b46207289/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
  </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
