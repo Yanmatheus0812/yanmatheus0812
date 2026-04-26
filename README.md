@@ -7,7 +7,7 @@
 
 - 🎓 Estudante de Engenharia de software pela **Universidade de Brasília**  
 - 💻 Desenvolvedor full-stack na **ProEpi**  
-- 🧩 Ex membro da empresa júnior **Orc'estra Gamificação**
+- 🧩 Pós júnior da empresa júnior **Orc'estra Gamificação**
 
 <p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
 
@@ -44,5 +44,11 @@
   <a href = "mailto:yanmatheus0812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/yan-matheus-b46207289/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
  </div>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanmatheus0812/yanmatheus0812/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanmatheus0812/yanmatheus0812/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yanmatheus0812/yanmatheus0812/output/pacman-contribution-graph.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
