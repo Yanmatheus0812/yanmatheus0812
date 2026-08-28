@@ -6,7 +6,7 @@
 [![Sobre mim](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&color=FFFFFF&repeat=false&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 
 - 🎓 Estudante de Engenharia de software pela **Universidade de Brasília**  
-- 💻 Desenvolvedor full-stack na **ProEpi**  
+- 💻 Desenvolvedor full-stack no projeto **TriatoID**  
 - 🧩 Pós júnior da empresa júnior **Orc'estra Gamificação**
 
 <p align="center" style="color:#1E90FF;">✦ ✦ ✦</p>
